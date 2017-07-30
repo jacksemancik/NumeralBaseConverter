@@ -56,7 +56,6 @@ if(10 > system):
 #conditional to run if the system being used is greater than base-10
 else:
     other_num = str(sys.argv[1])
-    differential = system - 10
     differential_list = list(range(10, system))
     list_letters = list(string.ascii_letters)
     alt_val_dict = dict(zip(list_letters, differential_list))
