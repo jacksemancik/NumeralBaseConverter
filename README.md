@@ -15,4 +15,4 @@ python conv.py value base
 (Replace value with the value of your unconverted number, and base with the system base number)
 
 ## Author
-This programme was created by John "Jack" Frank Semancik, V, as a test project.
+This programme was created by John "Jack" Frank Semancik V, as a test project.
