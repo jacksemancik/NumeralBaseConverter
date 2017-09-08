@@ -10,9 +10,17 @@ git clone https://github.com/jacksemancik/NumeralBaseConverter
 ## Run the Programme!
 You may run the programme by running the following command:
 ```
-python conv.py value base
+python conv.py N [-b BASE]
 ```
-(Replace *value* with the value of your unconverted number, and *base* with the system base number)
+**Positional Arguments:**
+Argument | Description
+--- | ---
+N | the base-n number to be converted to base-10
+
+**Optional Arguments:**
+Argument | Description
+--- | ---
+--base BASE, -b BASE | the base of the number to be converted; the default base is ten
 
 ## Author
 This programme was created by John "Jack" Frank Semancik V, as a test project.
