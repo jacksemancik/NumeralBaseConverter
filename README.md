@@ -13,11 +13,13 @@ You may run the programme by running the following command:
 python conv.py N [-b BASE]
 ```
 **Positional Arguments:**
+
 Argument | Description
 --- | ---
 N | the base-n number to be converted to base-10
 
 **Optional Arguments:**
+
 Argument | Description
 --- | ---
 --base BASE, -b BASE | the base of the number to be converted; the default base is ten
